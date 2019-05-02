@@ -1,5 +1,5 @@
 # Project5
-
+![Project5UML](https://user-images.githubusercontent.com/47228260/57088056-0fbf5580-6cc7-11e9-983e-1d6e94cf8c0f.png)
 In Project 5, the objective of this programming was to implement a program where grpahics content
 will be used to calculate different types of Hamming Distances. While doing this project, I would 
 get a better understanding of Java Graphical User Interface (GUI).
